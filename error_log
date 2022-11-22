@@ -1,0 +1,6 @@
+[07-Oct-2021 01:19:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/perfectforms/public_html/dashboard/utility/mysqli.class.php on line 14
+[07-Oct-2021 01:20:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/perfectforms/public_html/dashboard/utility/mysqli.class.php on line 14
+[07-Oct-2021 01:20:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/perfectforms/public_html/dashboard/utility/mysqli.class.php on line 14
+[07-Oct-2021 01:20:27 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/perfectforms/public_html/dashboard/utility/mysqli.class.php on line 14
+[07-Oct-2021 01:21:11 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/perfectforms/public_html/dashboard/utility/mysqli.class.php on line 14
+[07-Oct-2021 01:21:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/perfectforms/public_html/dashboard/utility/mysqli.class.php on line 14
